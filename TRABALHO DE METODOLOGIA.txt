@@ -1,0 +1,281 @@
+UNIVERSIDADE FEDERAL DO MARANHÃO (UFMA) – CAMPUS BALSAS
+BACHARELADO INTERDISCIPLINAR EM CIÊNCIA E TECNOLOGIA 
+
+JOÃO PEDRO MOREIRA ROCHA
+
+
+
+
+
+
+
+
+
+
+APLICAÇÃO WEB PARA COLETA SELETIVA COMO SOLUÇÃO ECONÔMICA
+
+
+
+
+
+
+
+
+
+
+
+BALSAS - MA
+2017
+
+
+
+
+
+------------------------------------------------------------
+
+
+
+
+
+
+JOÃO PEDRO MOREIRA ROCHA
+
+
+
+
+
+
+
+
+
+
+
+
+APLICAÇÃO WEB PARA COLETA SELETIVA COMO SOLUÇÃO ECONÔMICA
+
+
+
+
+
+Projeto de pesquisa apresentado à Universidade Federal do Maranhão como requisito para nota na disciplina Metodologia de Pesquisa Científica do curso de Bacharelado Interdisciplinar em Ciência e Tecnologia.
+Orientadora: Prof. Drª. Gisélia de 
+
+
+BALSAS - MA
+2017
+
+
+
+
+
+
+
+
+------------------------------------------------------------
+
+
+
+
+
+
+
+
+SUMÁRIO
+
+1. INTRODUÇÃO
+2. PROBLEMA
+3. HIPÓTESES
+4. JUSTIFICATIVA
+5. OBJETIVOS
+	GERAIS
+	ESPECÍFICOS
+6. METODOLOGIA
+	PESQUISA BIBLIOGRÁFICA
+7. CRONOGRAMA
+8. REFERÊNCIAS
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. INTRODUÇÃO
+
+	Coleta seletiva é a separação de resíduos orgânicos ou inorgânicos de origem domiciliar ou industrial para reaproveitamento ou reciclagem. Os materiais, orgânicos ou inorgânicos, que resultam das atividades humanas e que podem ser aproveitados tanto para reciclagem como para sua reutilização são considerados resíduos sólidos. 
+
+	Como um dos instrumentos da Política Nacional de Resíduos Sólidos(PNRS), instituída pela LEI Nº 12.305, DE 2 DE AGOSTO DE 2010, a coleta seletiva é também parte importante do Plano de Gestão de Resíduos Sólidos. Este plano é condição para os municípios terem acesso a alguns recursos da União. Essa importância decorre dos problemas e altos custos causados por resíduos sólidos não selecionados e descartados em locais inadequados. 
+
+	A maior parte dos resíduos sólidos, quando há seleção, é matéria-prima para indústrias de reciclagem, portando, os resíduos, ao invés de causar problemas e custos, podem ser parte de um sistema economicamente sustentável. É o caso de Oslo, cidade norueguesa que com a utilização extrema de tecnologia, enfrenta atualmente escassez de resíduos sólidos urbanos para utilização em suas plantas de reciclagem energética, chegando a importar lixo de países vizinhos, como Irlanda e Inglaterra(Nunes e Cabrini, 2015). Vitor Bicca, presidente do Compromisso Empresarial Para a Reciclagem(CEMPRE), informa que a reciclagem é vista apenas como um processo que faz bem para o meio ambiente, ou seja, materiais recicláveis não são vistos como um bem com valor de mercado ou matéria-prima para indústrias de reciclagem e na maioria dos casos são descartados como algo sem valor.
+
+	Apesar da coleta seletiva ser uma das bases para a gestão de resíduos sólidos, há poucas ações por parte da administração pública. Publicado na revista Época em 16/06/2016, estudo encomendado pelo CEMPRE aponta que 85% dos brasileiros não têm acesso à coleta seletiva, isso equivale a aproximadamente 170 milhões de brasileiros sem coleta seletiva em suas cidades.
+
+
+
+
+
+
+2. PROBLEMA
+
+	Resíduos sólidos inorgânicos, quando são descartados de forma inadequada, mesmo sem a presença de matéria orgânica, podem acumular água, atrair animais, insetos, e se transformarem em foco de doenças, ou, em grandes quantidades, alterar drasticamente ecossistemas. Se descartados de qualquer forma, resíduos sólidos orgânicos, podem liberar líquidos e gases resultantes da decomposição. Esses líquidos e gazes podem contaminar atmosfera, litosfera, hidrosfera e biosfera e tornar a utilização desses recursos economicamente inviável por alguns anos, em alguns casos por seculos. Portanto, a má gestão de resíduos sólidos inorgânicos e orgânicos, podem trazer graves problemas ambientais, problemas de saúde pública e econômicos, inviabilizando a exploração de recursos naturais a longo prazo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. HIPÓTESE
+
+ 	A coleta seletiva, não envolve altos custos de operação, em alguns casos, reduz custos no transporte de resíduos. De acordo com OLIVEIRA(2002), com a coleta seletiva, o transporte pode ser otimizado e ter custos menores que o transporte de resíduos misturados.
+
+	Além de catadores profissionais e cooperativas, a população de alguns municípios, separa os resíduos recicláveis e levam até um ponto de entrega voluntária. Em algumas regiões, indústrias agrícolas, pagam pelo transporte até Centros de Coleta e Triagem de Resíduos(CCTRS). De acordo com GILLIARD(2015), o CCTRS é uma unidade que visa a comercialização de resíduos sólidos provenientes da coleta efetuada por catadores e programas de coleta seletiva. No município de Balsas-MA, de acordo com Paulo, empresário do CCTRS, além de catadores profissionais, voluntários e grandes fazendas, dois grandes supermercados da cidade contribuem selecionando resíduos sólidos e levando ou solicitando transporte ao CCTRS. Mas o volume ainda é pequeno comparado com o total de resíduos produzidos. O setor de reciclagem sofre com as dificuldades de obtenção de insumos para atividade devido a insuficiente coleta seletiva no país como aponta o SEBRAE, 12/2012 (apud GILLIARD, 2015).
+
+	Nesse contexto, os CCTRS funcionam como fonte de obtenção de matéria-prima, e é intermediário entre os catadores, indústrias agropecuárias e as indústrias de reciclagem(GILLIARD, 2015). Havendo maior integração e participação da população, setor privado, e centros de coleta, a coleta seletiva pode ser fonte de renda aos envolvidos se haver distribuição de ganhos. Para possibilitar maior integração e distribuição de ganhos, existem plataformas abertas de desenvolvimento Web que permitem a criação de softwares de gerenciamento de recursos humanos e materiais. Uma aplicação aberta que seja acessível em múltiplos dispositivos, que promova a coleta seletiva e permita o gerenciamento distribuído de recursos humanos, de materiais e ganhos envolvidos, com financiamento adequado, trabalhos voluntários e divulgação adequada pode ter alcance e impacto para viabilizar mais coleta seletiva.
+
+ 
+
+
+
+
+
+4. JUSTIFICATIVA
+
+	O desenvolvimento de pesquisas voltadas para o gerenciamento de resíduos são importantes para mostrar de forma clara e objetiva, soluções aos problemas relacionados ao lixo e as consequências caso nada seja feito. Este trabalho justifica-se por poder contribuir com novas informações para o tema.
+
+	Promover a integração e a participação da população, setor privado, e centros de coleta para a coleta seletiva, pode trazer resultados econômicos positivos para o mercado da reciclagem e os envolvidos havendo distribuição de ganhos. Através do software que será desenvolvido esses resultados podem ser alcançados.
+
+	Como ponto de partida para ações na gestão de resíduos, este trabalho pode contribuir para reduzir custos para indústrias de reciclagem, permitindo que mais investimentos sejam feitos em métodos de reciclagem e novas tecnologias.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. OBJETIVO 
+ 
+	5.1. OBJETIVO GERAL
+
+	Desenvolver aplicação Web para gerenciamento de recursos humanos e materiais envolvidos na coleta seletiva.
+ 
+	5.1 OBJETIVOS ESPECÍFICOS 
+ 
+	Divulgar ao ramo empresarial de Balsas benefícios da coleta seletiva, promover o reconhecimento do resíduo sólido reutilizável e reciclável como um bem econômico e de valor social, gerador de trabalho e renda e promotor de cidadania, de acordo com a PNRS e propor que adotem a coleta seletiva.
+
+	Solicitar ao setor público e empresarial de Balsas apoio ao projeto e disponibilização de locais, para que possam ser Pontos de Entrega Voluntaria, para o recolhimento desses resíduos.
+
+	Criar um web-site(aplicação Web) que realize o cadastro de empresas e pessoas que tenham interesse de levar o lixo até os Pontos de Entrega Voluntaria (PEV), cadastro de catadores e cadastro de CCTRS.
+
+	Criar um logo para facilitar a divulgação das ações, grupos e empresas com iniciativas sustentáveis que seja de fácil reprodução e visualmente fácil de ser compreendido.
+
+	Criar páginas de divulgação em redes sociais para aumentar o alcance das ações e servir como meio de divulgação de pessoas, empresas e instituições parceiras.
+
+
+
+
+
+
+6.METODOLOGIA 
+
+	A metodologia de pesquisa utilizada para este trabalho classifica-se em aplicada, por desenvolver uma aplicação Web, e de caráter bibliográfico e de campo, para suportar as hipóteses e possivelmente solucionar o problema.
+
+	6.1. PESQUISA BIBLIOGRÁFICA E DE CAMPO
+
+	Inicialmente serão coletadas informações em bibliografia local(município de Balsas-MA) e de outras regiões a respeito do gerenciamento de resíduos sólidos, mais especificamente as ações e consequências relacionadas à coleta seletiva e reciclagem, dados de empresas e da população em geral do município de Balsas, onde será verificada a possibilidade de aplicar campanhas de promoção da coleta seletiva.
+
+	Caso existam empresas relacionadas a reciclagem, grupos de catadores ou cooperativas e pontos de entrega voluntaria, serão realizadas entrevistas com os responsáveis através de questionários. Será verificado o interesse da população em relação a reciclagem e coleta seletiva utilizando ferramentas que informam o volume de buscas por temas(ferramenta: google trends e outras).
+	
+	Em relação ao interesse das empresas, serão visitadas as principais empresas, e as que produzem maior volume de resíduos.
+
+	6.2. PESQUISA  APLICA DA - APLICAÇÃO WEB
+
+	Com base nos dados levantados, caso ainda não haja pontos de entrega voluntária, será verificada a possibilidade de criação de pontos de entrega voluntária com incentivo ou apoio de empresas ou poder público. Em seguida, será criada e implementada uma campanha de promoção a coleta seletiva buscando alcançar a população, empresas e órgãos públicos. Será feito cadastro dos pontos de entrega voluntária no Google Maps indicando quais os materiais cada um recolhe e os links serão reunidos em redes sociais e organizados no site da iniciativa, assim como já é feito pela Recicloteca(http://www.recicloteca.org.br/pontos-dereciclagem).
+
+	A campanha irá incentivar o cadastro no site e será criada uma marca para facilitar a publicidade. O site será desenvolvido por estudantes da UFMA que possuem formação complementar em desenvolvimento web, e futuramente, os cadastros serão utilizados para o desenvolvimento de aplicativo dinâmico que auxiliam o gerenciamento dos resíduos sólidos.
+
+	O site será implementado utilizando a linguagem de marcação HTML, com diagramação e design simples, atrativo, intuitivo e responsivo através de ferramentas CSS. Será utilizado protocolo HTTPS, que possui uma camada de segurança com criptografia, e o SSL livre sem custos da Lets Encrypt. O cadastro será feito através de formulários HTML integrados com a linguagem PHP. O banco de dados será o MySQL/MariaDB, por ser código aberto e sem custos. O código será hospedado no Hostinger, que possui opção de conta gratuita e permite gerenciar todas as ferramentas mencionadas on-line.
+
+	Para o desenvolvimento de aplicativo será necessária a realização de uma pesquisa e treinamento da equipe de alunos para conhecimentos e práticas na plataforma Android. O aplicativo poderá indicar a quantidade de resíduos que cada voluntário entrega nos pontos de entrega voluntária, e caso a soma dos materiais atinja o volume que seja lucrativo para o atravessador (centro de coleta e triagem para as indústrias), ele passará uma quantia do valor ao voluntário.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. CRONOGRAMA
+	1) Pesquisa bibliográfica
+	2) Pesquisa de campo
+	3) Verificação de interesse no município
+	4) Possibilidade de criação de pontos de entrega 
+	5) Planejamento para a campanha de promoção à coleta 
+	6) Implementação de aplicações on-line: cadastro dos pontos, e interessados no Google Maps,  redes sociais e site 
+	7) Pesquisa e treinamento para desenvolvimento de aplicativo na plataforma Android.
+	8) Implementação de App.
+
+
+
+
+
+
+
+
+8. REFERÊNCIAS
+
+CALIXTO, Bruno. 85% dos Brasileiros Não Têm Acesso À Coleta Seletiva, Mostra Estudo. Disponível em: < http://epoca.globo.com/colunas-e-blogs/blog-doplaneta/noticia/2016/06/85-dos-brasileiros-nao-tem-acesso-coleta-seletiva-mostraestudo.html>. Acesso em: 10 de janeiro 2017. 
+ 
+BRASIL. Lei Nº 12.305, de 04 de agosto de 2010. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm>. Acesso em: 13 de janeiro de 2017. 
+ 
+KHAIR, Claudia. A Coleta Seletiva de Resíduos Sólidos no Brasil. Disponível em: <http://www.recicloteca.org.br/noticias/coleta-seletiva-de-residuos-no-brasil/>. Acesso em: 13 de janeiro de 2017. 
+ 
+SANTOS, Gilliard Ribeiro dos. Modelo de programação linear Inteira do problema de gerenciamento de resíduos sólidos em centro de coleta. Balsas: UFMA, 2015. 
+ 
+OLIVEIRA, Artur Santos Dias de. Método para viabilização de implantação de Plano de Gerenciamento Integrado de Resíduos Sólidos: o caso do município do Rio Grande. Florianópolis: UFSC, 2002. 
